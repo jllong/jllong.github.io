@@ -10,7 +10,7 @@ rdiscount:
 # Basics
 #
 # 0. Page title and theme
-title:            Stair-Rover
+title:            Shadows of Los Angeles
 theme:            basic
 #
 # 1. Your website ( could be same as this page - see below )
@@ -23,7 +23,7 @@ url:              http://jllong.github.io/
 project:
   #
   # Name of the project
-  name:           Stair-Rover
+  name:           Shadows of Los Angeles
   #
   # URL of the project. Use short urls to ensure you track the visits (Optional)
   url:            http://kck.st/1jkHVbk
@@ -42,7 +42,6 @@ google_analytics:
 #
 # 6. Welcome text, add <br /> to break lines
 welcome_text:     |
-  This is the Stair-Rover team greeting from London. <br />
-  First of all, thank you for signing up to our mailing list. <br />
-  Here's to tell you that our project is now live on Kickstarter,
-  and now we have to count on your support to not only back the project, but also share the love. ♥
+  I've been dreaming of making this short film for years. Now, thanks to you and Kickstarter, it can become a reality. After watching F.W. Murnau's "Nosferatu," my friend and I were excited to do a movie "old-school". I thought, "What if I could tell that story in a more modern setting but preserve its dark side?"
+
+Shadows of Los Angeles is that movie. Our tale takes place in 1930s Los Angeles, and we're working with industry professionals to get the period's look and feel just right.
