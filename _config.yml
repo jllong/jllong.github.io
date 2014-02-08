@@ -42,7 +42,7 @@ google_analytics:
 #
 # 6. Welcome text, add <br /> to break lines
 welcome_text:     |
-  This is the is the start of our great adventure.</b>
-  I have been dreaming of make this film ever since I can remember</b>
-  Please visit the Kickstarter Page and learn more about the project and</b>
+  This is the is the start of our great adventure.<br>
+  I have been dreaming of make this film ever since I can remember<br>
+  Please visit the Kickstarter Page and learn more about the project and<br>
   stay tuned for more updates on the creation of a monster.
